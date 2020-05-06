@@ -1,0 +1,8 @@
+google.com
+ibm.com
+apple.com
+amazon.com
+stackoverflow.com
+youtube.com
+github.com
+investing.com
